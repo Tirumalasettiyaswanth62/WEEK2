@@ -146,7 +146,8 @@ Purpose: Verify RTL functionality before synthesis
 Output: output/pre_synth_sim/pre_synth_sim.out and waveform .vcd
 
 ### Waveform of pre_synthsis_sim:
-<img width="1284" height="799" alt="pre_synthesis_simulation" src="https://github.com/user-attachments/assets/19acd214-5e2e-425c-b190-8a91557bbfde" />
+
+<img width="1280" height="825" alt="Screenshot 2025-10-04 111447" src="https://github.com/user-attachments/assets/be04cc5e-f242-4579-962d-a31ec543c12e" />
 
 In this waveform, the following signals can be observed:
 
