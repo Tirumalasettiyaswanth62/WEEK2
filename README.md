@@ -28,7 +28,7 @@ Helps analyze signal interactions, timing, and system behavior in a graphical fo
 # What is a System on a Chip (SoC)?
 It is a highly integrated circuit that functions like a mini-computer built onto a single chip. Instead of requiring separate physical parts for each function, an SoC combines all the necessary components into one small package.
 
-used in mobiles etc..
+used in mobiles processors etc..
 
 # Introduction to VSDBabySoC
 The VSDBabySoC (or BabySoC) is a small yet highly capable SoC with a primary objective of being an educational platform. It was designed to facilitate the simultaneous testing of three specific open-source intellectual property (IP) cores for the first time while also allowing for the calibration of its analog components.
